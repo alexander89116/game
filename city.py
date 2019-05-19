@@ -101,7 +101,7 @@ class Greek_civilization:
         if name not in self.cities[other_login]:
             return 'Player {} has no city {}'.format(other_login, name)
         army = Army(count=cnt, owner=login)
-        ans = self.active[login].sell_army(army, self.cities[other_login][name])
+        ans = self.active[login].send_army(army, self.cities[other_login][name])
         if ans[0] != 'OK':
             return ans[0]
         elif ans[1] == 'Win':
