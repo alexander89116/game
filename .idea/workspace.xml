@@ -1,0 +1,779 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c81e43fa-d1e5-4ef7-ba5e-b0f897e8da22" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/building.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="61" selection-start-line="61" selection-end-line="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="uml://Python/#C:/Users/Александр/Documents/GitHub/game/client.py">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>Python</ID>
+              <OriginalElement>#C:/Users/Александр/Documents/GitHub/game/client.py</OriginalElement>
+              <nodes>
+                <node x="2924.75" y="540.0">argparse._ActionsContainer</node>
+                <node x="0.0" y="1564.0">argparse.Action</node>
+                <node x="5817.75" y="1696.5">Exception</node>
+                <node x="709.0" y="2214.5">argparse._HelpAction</node>
+                <node x="5722.75" y="804.0">BaseException</node>
+                <node x="2228.0" y="1278.0">argparse.ArgumentParser</node>
+                <node x="5744.75" y="2192.0">client.PatchedParserException</node>
+                <node x="4203.25" y="0.0">object</node>
+                <node x="3502.0" y="2203.5">client.PatchedArgumentParser</node>
+                <node x="931.5" y="2336.0">client.PatchedHelpAction</node>
+                <node x="1051.25" y="848.5">argparse._AttributeHolder</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="client.PatchedArgumentParser" target="argparse.ArgumentParser">
+                  <point x="0.0" y="-35.5" />
+                  <point x="0.0" y="432.0" />
+                </edge>
+                <edge source="argparse.Action" target="argparse._AttributeHolder">
+                  <point x="0.0" y="-146.0" />
+                  <point x="-52.75" y="35.5" />
+                </edge>
+                <edge source="client.PatchedHelpAction" target="argparse._HelpAction">
+                  <point x="0.0" y="-24.5" />
+                  <point x="0.0" y="24.5" />
+                </edge>
+                <edge source="argparse._HelpAction" target="argparse.Action">
+                  <point x="0.0" y="-24.5" />
+                  <point x="0.0" y="146.0" />
+                </edge>
+                <edge source="argparse._ActionsContainer" target="object">
+                  <point x="0.0" y="-344.0" />
+                  <point x="0.0" y="245.0" />
+                </edge>
+                <edge source="Exception" target="BaseException">
+                  <point x="0.0" y="-13.5" />
+                  <point x="0.0" y="80.0" />
+                </edge>
+                <edge source="argparse._AttributeHolder" target="object">
+                  <point x="0.0" y="-35.5" />
+                  <point x="1156.75" y="515.0" />
+                  <point x="4240.083333333333" y="515.0" />
+                  <point x="-73.66666666666697" y="245.0" />
+                </edge>
+                <edge source="BaseException" target="object">
+                  <point x="0.0" y="-80.0" />
+                  <point x="5864.75" y="515.0" />
+                  <point x="4387.416666666667" y="515.0" />
+                  <point x="73.66666666666697" y="245.0" />
+                </edge>
+                <edge source="client.PatchedParserException" target="Exception">
+                  <point x="0.0" y="-47.0" />
+                  <point x="0.0" y="13.5" />
+                </edge>
+                <edge source="argparse.ArgumentParser" target="argparse._ActionsContainer">
+                  <point x="695.25" y="-432.0" />
+                  <point x="0.0" y="344.0" />
+                </edge>
+                <edge source="argparse.ArgumentParser" target="argparse._AttributeHolder">
+                  <point x="-695.25" y="-432.0" />
+                  <point x="2923.25" y="1253.0" />
+                  <point x="1209.5" y="1253.0" />
+                  <point x="52.75" y="35.5" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="0.30000000000000016" x="3663.999999999999" y="339.99999999999983" />
+              <SelectedNodes />
+              <Categories>
+                <Category>Inner Classes</Category>
+                <Category>Fields</Category>
+                <Category>Methods</Category>
+              </Categories>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#12#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/unit.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="uml://Python/#C:/Users/Александр/Documents/GitHub/game/unit.py">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>Python</ID>
+              <OriginalElement>#C:/Users/Александр/Documents/GitHub/game/unit.py</OriginalElement>
+              <nodes>
+                <node x="480.0" y="992.0">unit.Archer</node>
+                <node x="800.0" y="992.0">unit.Horseman</node>
+                <node x="160.0" y="992.0">unit.Chariot</node>
+                <node x="226.0" y="617.0">unit.Unit</node>
+                <node x="640.0" y="992.0">unit.Catapult</node>
+                <node x="320.0" y="992.0">unit.Swordman</node>
+                <node x="734.0" y="540.0">unit.Army</node>
+                <node x="607.75" y="0.0">object</node>
+                <node x="0.0" y="992.0">unit.Slinger</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="unit.Catapult" target="unit.Unit">
+                  <point x="0.0" y="-24.5" />
+                  <point x="710.0" y="972.0" />
+                  <point x="592.0" y="972.0" />
+                  <point x="122.0" y="124.0" />
+                </edge>
+                <edge source="unit.Chariot" target="unit.Unit">
+                  <point x="0.0" y="-24.5" />
+                  <point x="230.0" y="972.0" />
+                  <point x="348.0" y="972.0" />
+                  <point x="-122.0" y="124.0" />
+                </edge>
+                <edge source="unit.Unit" target="object">
+                  <point x="0.0" y="-124.0" />
+                  <point x="470.0" y="515.0" />
+                  <point x="663.0" y="515.0" />
+                  <point x="-55.25" y="245.0" />
+                </edge>
+                <edge source="unit.Archer" target="unit.Unit">
+                  <point x="0.0" y="-24.5" />
+                  <point x="550.0" y="972.0" />
+                  <point x="510.6666666666667" y="972.0" />
+                  <point x="40.666666666666686" y="124.0" />
+                </edge>
+                <edge source="unit.Army" target="object">
+                  <point x="0.0" y="-201.0" />
+                  <point x="966.5" y="515.0" />
+                  <point x="773.5" y="515.0" />
+                  <point x="55.25" y="245.0" />
+                </edge>
+                <edge source="unit.Swordman" target="unit.Unit">
+                  <point x="0.0" y="-24.5" />
+                  <point x="390.0" y="972.0" />
+                  <point x="429.33333333333337" y="972.0" />
+                  <point x="-40.66666666666663" y="124.0" />
+                </edge>
+                <edge source="unit.Slinger" target="unit.Unit">
+                  <point x="0.0" y="-24.5" />
+                  <point x="70.0" y="962.0" />
+                  <point x="266.6666666666667" y="962.0" />
+                  <point x="-203.33333333333331" y="124.0" />
+                </edge>
+                <edge source="unit.Horseman" target="unit.Unit">
+                  <point x="0.0" y="-24.5" />
+                  <point x="870.0" y="962.0" />
+                  <point x="673.3333333333333" y="962.0" />
+                  <point x="203.33333333333326" y="124.0" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="1.0" x="329.5000000000001" y="528.5" />
+              <SelectedNodes>
+                <node>object</node>
+              </SelectedNodes>
+              <Categories>
+                <Category>Fields</Category>
+                <Category>Methods</Category>
+              </Categories>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="uml://Python/#C:/Users/Александр/Documents/GitHub/game/building.py">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>Python</ID>
+              <OriginalElement>#C:/Users/Александр/Documents/GitHub/game/building.py</OriginalElement>
+              <nodes>
+                <node x="0.0" y="771.0">building.wall</node>
+                <node x="395.5" y="540.0">building.building</node>
+                <node x="631.0" y="782.0">building.mine</node>
+                <node x="774.0" y="782.0">building.quarry</node>
+                <node x="143.0" y="771.0">building.warehouse</node>
+                <node x="488.0" y="760.0">building.farm</node>
+                <node x="362.0" y="0.0">object</node>
+                <node x="323.0" y="782.0">building.sawmill</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="building.sawmill" target="building.building">
+                  <point x="0.0" y="-24.5" />
+                  <point x="395.5" y="740.0" />
+                  <point x="459.6666666666667" y="740.0" />
+                  <point x="-12.833333333333314" y="80.0" />
+                </edge>
+                <edge source="building.building" target="object">
+                  <point x="0.0" y="-80.0" />
+                  <point x="0.0" y="245.0" />
+                </edge>
+                <edge source="building.warehouse" target="building.building">
+                  <point x="0.0" y="-35.5" />
+                  <point x="223.0" y="730.0" />
+                  <point x="434.0" y="730.0" />
+                  <point x="-38.5" y="80.0" />
+                </edge>
+                <edge source="building.wall" target="building.building">
+                  <point x="0.0" y="-35.5" />
+                  <point x="61.5" y="720.0" />
+                  <point x="408.3333333333333" y="720.0" />
+                  <point x="-64.16666666666669" y="80.0" />
+                </edge>
+                <edge source="building.farm" target="building.building">
+                  <point x="0.0" y="-46.5" />
+                  <point x="549.5" y="740.0" />
+                  <point x="485.33333333333337" y="740.0" />
+                  <point x="12.833333333333371" y="80.0" />
+                </edge>
+                <edge source="building.quarry" target="building.building">
+                  <point x="0.0" y="-24.5" />
+                  <point x="843.0" y="720.0" />
+                  <point x="536.6666666666667" y="720.0" />
+                  <point x="64.16666666666674" y="80.0" />
+                </edge>
+                <edge source="building.mine" target="building.building">
+                  <point x="0.0" y="-24.5" />
+                  <point x="692.5" y="730.0" />
+                  <point x="511.0" y="730.0" />
+                  <point x="38.5" y="80.0" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="1.0" x="177.0" y="649.0" />
+              <SelectedNodes>
+                <node>building.wall</node>
+              </SelectedNodes>
+              <Categories>
+                <Category>Fields</Category>
+                <Category>Methods</Category>
+              </Categories>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/city.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#22#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="uml://Python/#C:/Users/Александр/Documents/GitHub/game/city.py">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>Python</ID>
+              <OriginalElement>#C:/Users/Александр/Documents/GitHub/game/city.py</OriginalElement>
+              <nodes>
+                <node x="0.0" y="187.0">city.City</node>
+                <node x="85.0" y="0.0">object</node>
+                <node x="114.0" y="242.0">city.Greek_civilization</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="city.City" target="object">
+                  <point x="0.0" y="-112.5" />
+                  <point x="47.0" y="162.0" />
+                  <point x="107.25" y="162.0" />
+                  <point x="-22.25" y="68.5" />
+                </edge>
+                <edge source="city.Greek_civilization" target="object">
+                  <point x="0.0" y="-57.5" />
+                  <point x="212.0" y="162.0" />
+                  <point x="151.75" y="162.0" />
+                  <point x="22.25" y="68.5" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="1.0" x="-115.0" y="214.0" />
+              <SelectedNodes />
+              <Categories>
+                <Category>Fields</Category>
+              </Categories>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/building.py" />
+        <option value="$PROJECT_DIR$/server.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="948" />
+    <option name="width" value="981" />
+    <option name="height" value="1092" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="game" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c81e43fa-d1e5-4ef7-ba5e-b0f897e8da22" name="Default Changelist" comment="" />
+      <created>1558302683215</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558302683215</updated>
+      <workItem from="1558302685349" duration="2985000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2985000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17542441" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" visible="true" weight="0.14238411" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/building.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="uml://JavaScript-modules-diagram/C:/Users/Александр/Documents/GitHub/game">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="464.0" y="177.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unit.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/building.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Python/#C:/Users/Александр/Documents/GitHub/game/city.py">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>#C:/Users/Александр/Documents/GitHub/game/city.py</OriginalElement>
+          <nodes>
+            <node x="0.0" y="187.0">city.City</node>
+            <node x="85.0" y="0.0">object</node>
+            <node x="114.0" y="242.0">city.Greek_civilization</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="city.City" target="object">
+              <point x="0.0" y="-112.5" />
+              <point x="47.0" y="162.0" />
+              <point x="107.25" y="162.0" />
+              <point x="-22.25" y="68.5" />
+            </edge>
+            <edge source="city.Greek_civilization" target="object">
+              <point x="0.0" y="-57.5" />
+              <point x="212.0" y="162.0" />
+              <point x="151.75" y="162.0" />
+              <point x="22.25" y="68.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-115.0" y="214.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+          </Categories>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Python/#C:/Users/Александр/Documents/GitHub/game/server.py">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>#C:/Users/Александр/Documents/GitHub/game/server.py</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="510.0" y="232.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Inner Classes</Category>
+            <Category>Methods</Category>
+          </Categories>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/city.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Python/#C:/Users/Александр/Documents/GitHub/game/building.py">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>#C:/Users/Александр/Documents/GitHub/game/building.py</OriginalElement>
+          <nodes>
+            <node x="0.0" y="771.0">building.wall</node>
+            <node x="395.5" y="540.0">building.building</node>
+            <node x="631.0" y="782.0">building.mine</node>
+            <node x="774.0" y="782.0">building.quarry</node>
+            <node x="143.0" y="771.0">building.warehouse</node>
+            <node x="488.0" y="760.0">building.farm</node>
+            <node x="362.0" y="0.0">object</node>
+            <node x="323.0" y="782.0">building.sawmill</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="building.sawmill" target="building.building">
+              <point x="0.0" y="-24.5" />
+              <point x="395.5" y="740.0" />
+              <point x="459.6666666666667" y="740.0" />
+              <point x="-12.833333333333314" y="80.0" />
+            </edge>
+            <edge source="building.building" target="object">
+              <point x="0.0" y="-80.0" />
+              <point x="0.0" y="245.0" />
+            </edge>
+            <edge source="building.warehouse" target="building.building">
+              <point x="0.0" y="-35.5" />
+              <point x="223.0" y="730.0" />
+              <point x="434.0" y="730.0" />
+              <point x="-38.5" y="80.0" />
+            </edge>
+            <edge source="building.wall" target="building.building">
+              <point x="0.0" y="-35.5" />
+              <point x="61.5" y="720.0" />
+              <point x="408.3333333333333" y="720.0" />
+              <point x="-64.16666666666669" y="80.0" />
+            </edge>
+            <edge source="building.farm" target="building.building">
+              <point x="0.0" y="-46.5" />
+              <point x="549.5" y="740.0" />
+              <point x="485.33333333333337" y="740.0" />
+              <point x="12.833333333333371" y="80.0" />
+            </edge>
+            <edge source="building.quarry" target="building.building">
+              <point x="0.0" y="-24.5" />
+              <point x="843.0" y="720.0" />
+              <point x="536.6666666666667" y="720.0" />
+              <point x="64.16666666666674" y="80.0" />
+            </edge>
+            <edge source="building.mine" target="building.building">
+              <point x="0.0" y="-24.5" />
+              <point x="692.5" y="730.0" />
+              <point x="511.0" y="730.0" />
+              <point x="38.5" y="80.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="177.0" y="649.0" />
+          <SelectedNodes>
+            <node>building.wall</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+          </Categories>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Python/#C:/Users/Александр/Documents/GitHub/game/unit.py">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>#C:/Users/Александр/Documents/GitHub/game/unit.py</OriginalElement>
+          <nodes>
+            <node x="480.0" y="992.0">unit.Archer</node>
+            <node x="800.0" y="992.0">unit.Horseman</node>
+            <node x="160.0" y="992.0">unit.Chariot</node>
+            <node x="226.0" y="617.0">unit.Unit</node>
+            <node x="640.0" y="992.0">unit.Catapult</node>
+            <node x="320.0" y="992.0">unit.Swordman</node>
+            <node x="734.0" y="540.0">unit.Army</node>
+            <node x="607.75" y="0.0">object</node>
+            <node x="0.0" y="992.0">unit.Slinger</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="unit.Catapult" target="unit.Unit">
+              <point x="0.0" y="-24.5" />
+              <point x="710.0" y="972.0" />
+              <point x="592.0" y="972.0" />
+              <point x="122.0" y="124.0" />
+            </edge>
+            <edge source="unit.Chariot" target="unit.Unit">
+              <point x="0.0" y="-24.5" />
+              <point x="230.0" y="972.0" />
+              <point x="348.0" y="972.0" />
+              <point x="-122.0" y="124.0" />
+            </edge>
+            <edge source="unit.Unit" target="object">
+              <point x="0.0" y="-124.0" />
+              <point x="470.0" y="515.0" />
+              <point x="663.0" y="515.0" />
+              <point x="-55.25" y="245.0" />
+            </edge>
+            <edge source="unit.Archer" target="unit.Unit">
+              <point x="0.0" y="-24.5" />
+              <point x="550.0" y="972.0" />
+              <point x="510.6666666666667" y="972.0" />
+              <point x="40.666666666666686" y="124.0" />
+            </edge>
+            <edge source="unit.Army" target="object">
+              <point x="0.0" y="-201.0" />
+              <point x="966.5" y="515.0" />
+              <point x="773.5" y="515.0" />
+              <point x="55.25" y="245.0" />
+            </edge>
+            <edge source="unit.Swordman" target="unit.Unit">
+              <point x="0.0" y="-24.5" />
+              <point x="390.0" y="972.0" />
+              <point x="429.33333333333337" y="972.0" />
+              <point x="-40.66666666666663" y="124.0" />
+            </edge>
+            <edge source="unit.Slinger" target="unit.Unit">
+              <point x="0.0" y="-24.5" />
+              <point x="70.0" y="962.0" />
+              <point x="266.6666666666667" y="962.0" />
+              <point x="-203.33333333333331" y="124.0" />
+            </edge>
+            <edge source="unit.Horseman" target="unit.Unit">
+              <point x="0.0" y="-24.5" />
+              <point x="870.0" y="962.0" />
+              <point x="673.3333333333333" y="962.0" />
+              <point x="203.33333333333326" y="124.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="329.5000000000001" y="528.5" />
+          <SelectedNodes>
+            <node>object</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+          </Categories>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Python/#C:/Users/Александр/Documents/GitHub/game/client.py">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>#C:/Users/Александр/Documents/GitHub/game/client.py</OriginalElement>
+          <nodes>
+            <node x="2924.75" y="540.0">argparse._ActionsContainer</node>
+            <node x="0.0" y="1564.0">argparse.Action</node>
+            <node x="5817.75" y="1696.5">Exception</node>
+            <node x="709.0" y="2214.5">argparse._HelpAction</node>
+            <node x="5722.75" y="804.0">BaseException</node>
+            <node x="2228.0" y="1278.0">argparse.ArgumentParser</node>
+            <node x="5744.75" y="2192.0">client.PatchedParserException</node>
+            <node x="4203.25" y="0.0">object</node>
+            <node x="3502.0" y="2203.5">client.PatchedArgumentParser</node>
+            <node x="931.5" y="2336.0">client.PatchedHelpAction</node>
+            <node x="1051.25" y="848.5">argparse._AttributeHolder</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="client.PatchedArgumentParser" target="argparse.ArgumentParser">
+              <point x="0.0" y="-35.5" />
+              <point x="0.0" y="432.0" />
+            </edge>
+            <edge source="argparse.Action" target="argparse._AttributeHolder">
+              <point x="0.0" y="-146.0" />
+              <point x="-52.75" y="35.5" />
+            </edge>
+            <edge source="client.PatchedHelpAction" target="argparse._HelpAction">
+              <point x="0.0" y="-24.5" />
+              <point x="0.0" y="24.5" />
+            </edge>
+            <edge source="argparse._HelpAction" target="argparse.Action">
+              <point x="0.0" y="-24.5" />
+              <point x="0.0" y="146.0" />
+            </edge>
+            <edge source="argparse._ActionsContainer" target="object">
+              <point x="0.0" y="-344.0" />
+              <point x="0.0" y="245.0" />
+            </edge>
+            <edge source="Exception" target="BaseException">
+              <point x="0.0" y="-13.5" />
+              <point x="0.0" y="80.0" />
+            </edge>
+            <edge source="argparse._AttributeHolder" target="object">
+              <point x="0.0" y="-35.5" />
+              <point x="1156.75" y="515.0" />
+              <point x="4240.083333333333" y="515.0" />
+              <point x="-73.66666666666697" y="245.0" />
+            </edge>
+            <edge source="BaseException" target="object">
+              <point x="0.0" y="-80.0" />
+              <point x="5864.75" y="515.0" />
+              <point x="4387.416666666667" y="515.0" />
+              <point x="73.66666666666697" y="245.0" />
+            </edge>
+            <edge source="client.PatchedParserException" target="Exception">
+              <point x="0.0" y="-47.0" />
+              <point x="0.0" y="13.5" />
+            </edge>
+            <edge source="argparse.ArgumentParser" target="argparse._ActionsContainer">
+              <point x="695.25" y="-432.0" />
+              <point x="0.0" y="344.0" />
+            </edge>
+            <edge source="argparse.ArgumentParser" target="argparse._AttributeHolder">
+              <point x="-695.25" y="-432.0" />
+              <point x="2923.25" y="1253.0" />
+              <point x="1209.5" y="1253.0" />
+              <point x="52.75" y="35.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.30000000000000016" x="3663.999999999999" y="339.99999999999983" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Inner Classes</Category>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+          </Categories>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
